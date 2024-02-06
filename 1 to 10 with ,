@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main(void)
+{	system("color 70");
+   int i; 
+	for(i=1;i<=10;i++)
+	{ if(i==10)
+		{printf("%d .",i);
+		}
+	  else if(i!=10)
+	   {printf("%d , ",i);
+	   }
+	}
+	getch();
+	
+}
