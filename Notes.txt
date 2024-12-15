@@ -1,0 +1,54 @@
+1. The array here is termed as "list".
+
+2. print() and print(f'{}') both are different as 
+    1st uses simple printing
+    whereas 2nd uses formated printing.
+
+3. if value==2:  #colon is necessary
+        print() #IMP: the statement inside an 'if'
+                     is tabbed inside the keyword.
+
+4. For exiting a function keyword backspace to extreme
+    left to be done else the statement is considered inside
+    the function.
+
+5. Python has a property to automatically detect the
+    data type of the data.
+
+6. In Python, step size if not given then it considered
+    starting from 1.
+    else if: for +ve : right to left
+    else if: for -ve : left to right
+
+7. The condition statement syntax is:
+    if _ :
+        .....
+    elif _ :
+        .....
+    else:
+        .....
+
+8. For string handling '+' is used for concatanation
+    whereas '*' for multiple statement print or return.
+
+9. .ord() - to return ASCII value
+    .append() - to add elements to the list.
+
+10. For loop variable like for 'for' syntax is
+    for _variable_ in range(_a range for start, end, jump_) :
+        statement
+    
+    for loop variable like for 'while' syntax is 
+    while _condition_ :
+        statement
+
+11. In numeral manupulation
+    + for addition for integer to double
+    - for substraction for integer to double
+    * for multiplication for integer to double
+    / for division for integer to double
+    // for division for floor value of integer
+
+12. For input to a variable we uses
+    input(".....") function assigned to a variable.
+
